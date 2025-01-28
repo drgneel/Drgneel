@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Drgneel
-- 👀 I’m interested in learning new tricks in frontend development
-- 🌱 I’m currently learning making small application on React.Js
-- 💞️ I’m looking to collaborate on making custom or optimize solutions
-- 📫 How to reach me ...
+- 🌍 Passionate about building clean, scalable, and user-friendly web applications.
+- 🔧 Focused on creating seamless UI/UX with React, TypeScript, and modern web technologies.
+- 💡 Always exploring new patterns and best practices to improve performance and maintainability.
+- 🌱 Currently diving deeper into the React ecosystem and TypeScript magic.
+- 🌈 Open to collaborations, contributing to open-source, and sharing knowledge!
+- 📬 Feel free to connect or check out my projects below!
 
 <!---
 Drgneel/Drgneel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
